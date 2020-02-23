@@ -1,6 +1,11 @@
 # login
 
-A new Flutter project.
+By using this app you can create a login  by using your email for verification
+  -create an firebase project and fill the details
+  - copy the requried dependencies.
+  - add the required dependencies in flutter.
+  - create the json file and paste it in the respective folder
+  - upgrade the build.graddle files...
 
 ## Getting Started
 
